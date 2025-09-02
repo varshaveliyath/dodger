@@ -253,7 +253,7 @@ body {
   .mobile-controls {
     display: flex;
     justify-content: center;
-    gap: 40px;
+    gap: 80px;
     margin-top: 15px; /* space below game window */
     position: relative; /* outside game-container */
     z-index: 1000;
@@ -264,7 +264,7 @@ body {
     height: 60px;
     border-radius: 50%;
     background: rgba(0,0,0,0.6);
-    border: 2px solid #00b3ff;
+    border: 2px solid #2d8aa4;
     color: #2d8aa4;
     display: flex;
     align-items: center;

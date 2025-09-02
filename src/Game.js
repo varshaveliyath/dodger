@@ -237,7 +237,7 @@ export default function Game() {
           style={{
             display: "flex",
             justifyContent: "center",
-            gap: "40px",
+            gap: "100px",
             marginTop: 15,
           }}
         >
